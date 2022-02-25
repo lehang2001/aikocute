@@ -1,30 +1,68 @@
-<h2> Hi, I'm Aiko! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media2.giphy.com/media/XdUr7e0X1Kjeg/giphy.gif?cid=ecf05e47lt5b12equ4az5y3o4pbhvql2w6fednpsp7dp46n9&rid=giphy.gif&ct=g" width="230">
-<p><em>Student at <a href="https://qnu.edu.vn/">Quy Nhon University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://aikocute.com">AikoCute</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# XRayR
+Một khung phụ trợ Xray có thể dễ dàng hỗ trợ nhiều bảng.
 
-[![](https://img.shields.io/badge/MyZalo-@AikoCuteZalo-blue.svg)](https://zalo.me/0368629364)
-[![](https://img.shields.io/badge/MyTele-@AikocuteTele-blue.svg)](https://t.me/AikoCute_Player)
+Một khung công tác back-end dựa trên Xray, hỗ trợ các giao thức V2ay, Trojan, Shadowsocks, cực kỳ dễ dàng mở rộng và hỗ trợ kết nối nhiều bảng điều khiển
 
+Tìm mã nguồn tại đây: [XrayR-project/XrayR](https://github.com/AikoCute/XrayR)
 
+Có góp ý gì với mình thì vui lòng liên hệ mình qua 2 hình thức sau để mình cải tiến và cập nhật nhé 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+[![](https://img.shields.io/badge/ZaloChat-@AikoCuteZalo-blue.svg)](https://zalo.me/0368629364)
+[![](https://img.shields.io/badge/TeleChat-@AikocuteTele-blue.svg)](https://t.me/AikoCute_Player)
 
-```javascript
-const aiko = {
-  Adjective: "Active",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [Docker, Backend, terminal Linux, SEToolkit, Mestaploit frameword],
-  Foreign Language: ["English", "Japanese", "vietnamese"],
-  tool:{
-          GithubDesktop: "save code and project"
-          googledrive: "save necessary documents",
-          VisualStudioCode: "used to code any language"
-        }
- challenge: "I'm focusing on doing something to make myself less harmful!"
-}
+## Hướng dẫn chi tiết
+[Hướng dẫn](https://xrayr.aikocute.com)
+
+## Cài đặt Bash < Cách 1 >
+```
+AikoCute HộtMe
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## Cài đặt script < Cách 2 >
 
----
+* sử dụng script
+```
+AikoCute HộtMe
+```
+
+## Cấu hình xrayr
+Vào thư mục này để cấu hình
+```
+Vì chạy docker nên mình cho setup config tự động
+```
+
+1: dòng `ApiHost` : Link web ví dụ `https://domain.com/`
+
+2: dòng `ApiKey` : key của web (lấy trên web admin)
+
+3: dòng `NodeID` : `ID` server (tự đặt)
+
+4: dòng `PanelType` : ví dụ `V2board`, `SSpanel`,... (chữ đầu viết hoa)
+
+5: dòng `devicelimit` : `SL` nhập số người mà bạn muốn sever chạy tối đa
+
+```
+Mình đã fix lỗi zalo sẵn trên docker server nên không cần làm gì nữa nhé
+```
+
+# XrayR
+
+## biết ơn: 
+
+1. Tập lệnh này được sửa đổi và thêm các chức năng dựa trên tập lệnh ghép nối rico của @Aiko
+2. Nhóm dự án XrayR
+
+## Giới thiệu
+
+Tập lệnh gắn một cú nhấp chuột của trình docker phụ trợ XrayR
+
+> Địa chỉ dự án và tài liệu trợ giúp:  https://github.com/AikoCute/XrayR-release
+>
+> Địa chỉ dự án XrayR: https://github.com/AikoCute/XrayR
+>
+> Hướng dẫn chi tiết : https://github.com/AikoCute/XrayR-doc
+
+* Để mở nhiều phần mềm phụ trợ, bạn chỉ cần tạo một thư mục mới và tải tập lệnh xuống thư mục này để chạy
+
+
+
